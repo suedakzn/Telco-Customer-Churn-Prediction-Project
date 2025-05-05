@@ -14,7 +14,7 @@ Amaç, hangi müşterilerin hizmeti bırakma eğiliminde olduğunu erken tespit 
 - **Toplam Gözlem:** 7043  
 - **Toplam Değişken:** 21  
 - **Hedef Değişken:** `Churn` (Yes / No)  
-- **Kaynak:** IBM Telco Customer Churn Dataset (Kaggle)
+- **Kaynak:** [IBM Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ---
 
