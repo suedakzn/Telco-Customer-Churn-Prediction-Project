@@ -115,5 +115,3 @@ XGBoost modeline göre en etkili değişkenler:
 
 Bu proje sayesinde, gerçek bir iş problemini veriyle analiz edip çözüm üretme becerimi pekiştirdim.  
 Modellerin sadece doğruluk değil; **F1, AUC, yorumlanabilirlik gibi boyutlarla** da değerlendirilmesi gerektiğini uygulamalı olarak deneyimledim.
-
-> Churn modellemesi, iş zekâsı ve veri biliminin buluştuğu noktada yer alıyor — ve ben bu projede o dengeyi sağlamayı başardım. 🙌
